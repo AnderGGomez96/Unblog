@@ -1,8 +1,7 @@
 Esta es la historia de Anderson Gomez
 
-Anderson Gomez tiene 24 años, y vive en colombia.
-Actualmente es un estudiante de ingenieria de sistemas.
+Anderson Gomez tiene 24 años.
 
 El dia de hoy esta aprendiendo a usar Git.
 
-Hablemos ahora de su vida y obra maestra.
+Mañama hablaremos de su vida laboral.

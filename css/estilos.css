@@ -5,6 +5,16 @@ body
     font-family: "Arial";
 }
 
+#cabecera
+{
+    background: rgb(62, 62, 218);
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0, 0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+
+}
 #container
 {
     width: 70%;
